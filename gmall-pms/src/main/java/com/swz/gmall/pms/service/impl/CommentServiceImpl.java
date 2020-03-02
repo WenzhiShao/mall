@@ -15,6 +15,7 @@ import org.springframework.stereotype.Service;
  * @since 2020-03-02
  */
 @Service
+@org.apache.dubbo.config.annotation.Service
 public class CommentServiceImpl extends ServiceImpl<CommentMapper, Comment> implements CommentService {
 
 }
