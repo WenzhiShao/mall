@@ -25,6 +25,4 @@
 /gmall-ums/mvnw
 /gmall-ums/mvnw.cmd
 /gmall-parent.iml
-/gmall-oms/.mvn/
-/gmall-oms/.mvn/
-/reverse/
+/gmall-pms/src/main/java/com/swz/gmall/pms/Test.java

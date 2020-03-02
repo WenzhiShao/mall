@@ -11,7 +11,10 @@
     <modules>
         <module>gmall-common</module>
         <module>gmall-api</module>
-        <module>reverse</module>
+        <module>gmall-oms</module>
+        <module>gmall-pms</module>
+        <module>gmall-ums</module>
+        <module>gmall-sms</module>
     </modules>
 
 
